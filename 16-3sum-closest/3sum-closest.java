@@ -16,12 +16,13 @@ class Solution {
         {
         left++;
         }
-        else {
+        else{
             right--;
         }
         }
-        } 
-        return closet;      
+        }
+        return closet;
+
+        
     }
-   
 }
